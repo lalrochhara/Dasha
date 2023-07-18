@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/409f1e6c7e44e7023fe26.jpg">
+  <img src="https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6">
 </p>
 
 <p align="center">
