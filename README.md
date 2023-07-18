@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/NickyLrca"> <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=telegram" alt="Vain on Telegram" /> </a>
+<a href="https://t.me/NickyLrca"> <img src="https://img.shields.io/badge/Nicky-Lalrochhara-green?style=for-the-badge&logo=telegram" alt="Nicky on Telegram" /> </a>
 <a href="https://t.me/machinaxsupport"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/machinaxupdate"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
@@ -51,7 +51,7 @@
 </p>
 
 ```
-This Bot is Created by ShinobuProject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
+This Bot is Created by Nicky Lalrochhara, If your kanging this without fork at least give a credit to get a smile of my hard work. 
 - Dasha
 - EmikoRobot
 - YoneRobot
