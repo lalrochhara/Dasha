@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3931976db775cf0955241.jpg">
+  <img src="https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2Fads%20banner.png?alt=media&token=a9979cf6-a95a-470b-9840-a0f7304c6f69">
 </p>
 
 <h2 align="center">
