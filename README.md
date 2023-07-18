@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/Dashaxbot"> <img src="https://github.com/lalrochhara/Dasha/blob/Dasha/Dasha/resources/Dasha-robot.svg" alt="Dasha on Telegram" /> </a></br>
+<a href="https://t.me/MizoDashaBot"> <img src="https://github.com/lalrochhara/Dasha/blob/Dasha/Dasha/resources/Dasha-robot.svg" alt="Dasha on Telegram" /> </a></br>
 <a href="https://github.com/lalrochhara/Dasha/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -44,7 +44,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/lalrochhara"> <img src="https://img.shields.io/badge/Vain-Github-magenta?style=for-the-badge&logo=github" alt="Vain Github" /> </a>
+<a href="https://github.com/lalrochhara"> <img src="https://img.shields.io/badge/Nicky-Github-magenta?style=for-the-badge&logo=github" alt="Nicky Github" /> </a>
 <a href="https://github.com/kennedy-ex"> <img src="https://img.shields.io/badge/Sena-Github-magenta?style=for-the-badge&logo=github" alt="Sena Github" /> </a>
 <a href="https://github.com/Aryazakaria01"> <img src="https://img.shields.io/badge/Arya-Github-magenta?style=for-the-badge&logo=github" alt="Arya Github" /> </a>
 <a href="https://github.com/zxcskyy"> <img src="https://img.shields.io/badge/Kyy-Github-magenta?style=for-the-badge&logo=github" alt="Kyy Github" /> </a>
